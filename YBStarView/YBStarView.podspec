@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "YBStarView"
-s.version      = "1.0.0"
+s.version      = "v1.0.0"
 s.summary      = "YBStarView Animation View"
 s.description  = "Core Graphics "
 s.homepage     = "https://github.com/kekeYe/YBStarView"
