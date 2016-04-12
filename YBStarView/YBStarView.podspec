@@ -9,7 +9,7 @@ s.author       = { "kekeye" => "yebiniosdev@gmail.com" }
 s.platform     = :ios, '7.0'
 s.source       = { :git => "https://github.com/kekeYe/YBStarView.git" }
 s.requires_arc = true
-s.source_files = 'YBStarView/YBStarView/YBStarView/{YBStarView}*.{h,m}'
+s.source_files = 'YBStarView/YBStarView/YBStarView/{Star}*.{h,m}'
 s.frameworks   = 'QuartzCore'
 
 end
